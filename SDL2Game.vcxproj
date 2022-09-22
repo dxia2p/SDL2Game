@@ -144,6 +144,9 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\Downloads\01_hello_SDL\01_hello_SDL\01_hello_SDL.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\sdl2-displayimage-image.png" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
